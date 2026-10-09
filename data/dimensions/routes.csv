@@ -1,0 +1,11 @@
+route_id,route_name,origin,destination,distance_km,base_travel_minutes
+R101,City Center - University,Central Bus Stand,MMMUT Campus,25,8.0
+R102,Railway Station - Airport,Railway Station,Airport Terminal,32,11.0
+R103,University - Civil Lines,MMMUT Campus,Civil Lines,22,7.0
+R104,Medical College - City Center,Medical College,Central Bus Stand,28,9.0
+R105,Golghar - Railway Station,Golghar,Railway Station,20,6.5
+R106,University - Railway Station,MMMUT Campus,Railway Station,30,10.0
+R107,Taramandal - City Center,Taramandal,Central Bus Stand,27,8.5
+R108,Airport - University,Airport Terminal,MMMUT Campus,35,12.0
+R109,Medical College - University,Medical College,MMMUT Campus,24,7.5
+R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,18,5.5

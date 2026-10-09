@@ -1,0 +1,6 @@
+trip_id,service_date,route_id,route_name,origin,destination,scheduled_departure,scheduled_arrival,actual_departure,actual_arrival,delay_minutes,status,vehicle_id,passenger_count,weather_condition,traffic_level,event_type,issue_type
+BAD001,2026-09-10,,,Central Bus Stand,MMMUT Campus,2026-09-10 08:00:00,2026-09-10 08:25:00,2026-09-10 08:06:00,2026-09-10 08:30:00,6.0,completed,BUS001,30,Clear,Medium,None,MISSING_ROUTE_ID
+BAD002,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 09:00:00,2026-09-11 09:25:00,2026-09-11 09:05:00,2026-09-11 09:30:00,5.0,completed,BUS002,-4,Clear,Low,None,NEGATIVE_PASSENGER_COUNT
+BAD003,2026-09-12,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-12 10:00:00,2026-09-12 10:32:00,2026-09-12 09:55:00,2026-09-12 10:27:00,-5.0,completed,BUS003,28,Clear,Low,None,NEGATIVE_DELAY
+BAD004,2026-09-13,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-13 11:00:00,2026-09-13 11:22:00,2026-09-13 11:10:00,2026-09-13 11:08:00,10.0,completed,BUS004,31,Cloudy,High,None,ARRIVAL_BEFORE_DEPARTURE
+T010001,2026-09-01,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-01 07:10:00,2026-09-01 07:18:00,2026-09-01 07:23:00,2026-09-01 07:34:00,13.0,completed,BUS030,50,Fog,Medium,None,DUPLICATE_TRIP_ID

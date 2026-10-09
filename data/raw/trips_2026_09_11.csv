@@ -1,0 +1,181 @@
+trip_id,service_date,route_id,route_name,origin,destination,scheduled_departure,scheduled_arrival,actual_departure,actual_arrival,delay_minutes,status,vehicle_id,passenger_count,weather_condition,traffic_level,event_type
+T110001,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 17:30:00,2026-09-11 17:38:00,2026-09-11 17:36:00,2026-09-11 17:44:00,6.0,completed,BUS003,50,Clear,Medium,None
+T110002,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 13:40:00,2026-09-11 13:51:00,2026-09-11 13:59:00,2026-09-11 14:08:00,19.0,completed,BUS017,39,Rain,Medium,None
+T110003,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 10:10:00,2026-09-11 10:17:00,2026-09-11 10:18:00,2026-09-11 10:25:00,8.0,completed,BUS004,42,Cloudy,Low,None
+T110004,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 18:20:00,2026-09-11 18:29:00,2026-09-11 18:33:00,2026-09-11 18:45:00,13.0,completed,BUS026,24,Clear,Medium,Road Work
+T110005,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 17:50:00,2026-09-11 17:56:30,2026-09-11 18:02:00,2026-09-11 18:08:00,12.0,completed,BUS025,23,Fog,Medium,None
+T110006,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 11:20:00,2026-09-11 11:30:00,,,,cancelled,BUS012,44,Clear,High,None
+T110007,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 09:10:00,2026-09-11 09:18:30,2026-09-11 09:25:00,2026-09-11 09:33:00,15.0,completed,BUS012,3,Cloudy,Medium,None
+T110008,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 09:40:00,2026-09-11 09:52:00,2026-09-11 09:54:00,2026-09-11 10:02:00,14.0,completed,BUS008,33,Clear,Medium,None
+T110009,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 13:50:00,2026-09-11 13:57:30,2026-09-11 14:07:00,2026-09-11 14:12:00,17.0,completed,BUS022,42,Clear,Medium,Local Event
+T110010,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 08:20:00,2026-09-11 08:25:30,2026-09-11 08:34:00,2026-09-11 08:39:00,14.0,completed,BUS019,34,Heavy Rain,Medium,None
+T110011,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 10:10:00,2026-09-11 10:18:00,2026-09-11 10:22:00,2026-09-11 10:29:00,12.0,completed,BUS018,43,Cloudy,High,None
+T110012,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 14:30:00,2026-09-11 14:41:00,2026-09-11 14:40:00,2026-09-11 14:51:00,10.0,completed,BUS014,39,Clear,Low,None
+T110013,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 07:30:00,2026-09-11 07:37:00,2026-09-11 07:34:00,2026-09-11 07:39:00,4.0,completed,BUS001,43,Cloudy,Low,None
+T110014,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 19:10:00,2026-09-11 19:19:00,2026-09-11 19:25:00,2026-09-11 19:33:00,15.0,completed,BUS010,17,Rain,Medium,None
+T110015,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 12:30:00,2026-09-11 12:36:30,,,,cancelled,BUS016,47,Clear,Low,None
+T110016,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 08:20:00,2026-09-11 08:30:00,2026-09-11 08:32:00,2026-09-11 08:48:00,12.0,completed,BUS006,13,Clear,High,None
+T110017,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 16:50:00,2026-09-11 16:58:30,2026-09-11 17:02:00,2026-09-11 17:07:00,12.0,completed,BUS018,50,Clear,Low,None
+T110018,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 13:30:00,2026-09-11 13:42:00,2026-09-11 13:53:00,2026-09-11 14:02:00,23.0,completed,BUS021,23,Clear,Low,Festival
+T110019,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 19:40:00,2026-09-11 19:47:30,2026-09-11 19:55:00,2026-09-11 20:00:00,15.0,completed,BUS015,28,Clear,High,None
+T110020,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 18:10:00,2026-09-11 18:15:30,2026-09-11 18:19:00,2026-09-11 18:25:00,9.0,completed,BUS022,50,Rain,Medium,None
+T110021,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 07:20:00,2026-09-11 07:28:00,2026-09-11 07:21:00,2026-09-11 07:27:00,1.0,completed,BUS027,34,Cloudy,Low,None
+T110022,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 08:30:00,2026-09-11 08:41:00,2026-09-11 08:41:00,2026-09-11 08:51:00,11.0,completed,BUS001,29,Cloudy,Low,None
+T110023,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 12:40:00,2026-09-11 12:47:00,2026-09-11 12:45:00,2026-09-11 12:52:00,5.0,completed,BUS003,32,Cloudy,Medium,None
+T110024,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 18:20:00,2026-09-11 18:29:00,2026-09-11 18:37:00,2026-09-11 18:45:00,17.0,completed,BUS030,9,Heavy Rain,Low,None
+T110025,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 07:50:00,2026-09-11 07:56:30,2026-09-11 08:07:00,2026-09-11 08:12:00,17.0,completed,BUS014,9,Clear,Low,Road Work
+T110026,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 08:20:00,2026-09-11 08:30:00,2026-09-11 08:39:00,2026-09-11 08:50:00,19.0,completed,BUS001,37,Rain,High,None
+T110027,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 18:50:00,2026-09-11 18:58:30,2026-09-11 19:02:00,2026-09-11 19:10:00,12.0,completed,BUS010,49,Cloudy,Low,None
+T110028,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 18:30:00,2026-09-11 18:42:00,2026-09-11 18:52:00,2026-09-11 19:07:00,22.0,completed,BUS022,31,Clear,High,Road Work
+T110029,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 16:10:00,2026-09-11 16:17:30,2026-09-11 16:25:00,2026-09-11 16:36:00,15.0,completed,BUS004,21,Rain,Medium,None
+T110030,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 07:00:00,2026-09-11 07:05:30,2026-09-11 07:24:00,2026-09-11 07:29:00,24.0,completed,BUS028,31,Rain,Severe,Local Event
+T110031,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 18:00:00,2026-09-11 18:08:00,2026-09-11 18:06:00,2026-09-11 18:13:00,6.0,completed,BUS007,3,Cloudy,Medium,None
+T110032,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 16:30:00,2026-09-11 16:41:00,2026-09-11 16:50:00,2026-09-11 16:59:00,20.0,completed,BUS014,29,Fog,Medium,None
+T110033,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 12:20:00,2026-09-11 12:27:00,,,,cancelled,BUS019,39,Cloudy,Medium,None
+T110034,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 17:40:00,2026-09-11 17:49:00,2026-09-11 17:53:00,2026-09-11 18:03:00,13.0,completed,BUS008,42,Cloudy,High,None
+T110035,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 16:40:00,2026-09-11 16:46:30,2026-09-11 16:51:00,2026-09-11 16:56:00,11.0,completed,BUS003,22,Clear,Medium,None
+T110036,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 11:10:00,2026-09-11 11:20:00,2026-09-11 11:30:00,2026-09-11 11:41:00,20.0,completed,BUS009,20,Cloudy,Severe,None
+T110037,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 19:40:00,2026-09-11 19:48:30,2026-09-11 19:54:00,2026-09-11 20:03:00,14.0,completed,BUS023,9,Cloudy,High,Road Work
+T110038,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 19:20:00,2026-09-11 19:32:00,2026-09-11 19:33:00,2026-09-11 19:46:00,13.0,completed,BUS016,22,Cloudy,Medium,None
+T110039,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 08:50:00,2026-09-11 08:57:30,2026-09-11 09:04:00,2026-09-11 09:11:00,14.0,completed,BUS029,49,Clear,Severe,None
+T110040,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 07:10:00,2026-09-11 07:15:30,2026-09-11 07:16:00,2026-09-11 07:23:00,6.0,completed,BUS007,42,Clear,High,None
+T110041,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 09:10:00,2026-09-11 09:18:00,2026-09-11 09:23:00,2026-09-11 09:33:00,13.0,completed,BUS013,35,Fog,Medium,None
+T110042,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 19:40:00,2026-09-11 19:51:00,2026-09-11 19:51:00,2026-09-11 20:05:00,11.0,completed,BUS009,28,Clear,Low,None
+T110043,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 07:00:00,2026-09-11 07:07:00,2026-09-11 07:10:00,2026-09-11 07:18:00,10.0,completed,BUS027,33,Rain,Medium,None
+T110044,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 19:30:00,2026-09-11 19:39:00,2026-09-11 19:47:00,2026-09-11 19:57:00,17.0,completed,BUS003,35,Rain,High,None
+T110045,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 16:50:00,2026-09-11 16:56:30,2026-09-11 17:03:00,2026-09-11 17:11:00,13.0,completed,BUS006,29,Clear,Medium,None
+T110046,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 17:10:00,2026-09-11 17:20:00,2026-09-11 17:36:00,2026-09-11 17:46:00,26.0,completed,BUS024,33,Clear,Severe,Local Event
+T110047,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 13:10:00,2026-09-11 13:18:30,2026-09-11 13:29:00,2026-09-11 13:35:00,19.0,completed,BUS007,49,Clear,Low,None
+T110048,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 19:50:00,2026-09-11 20:02:00,2026-09-11 20:04:00,2026-09-11 20:14:00,14.0,completed,BUS007,8,Clear,Medium,None
+T110049,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 19:30:00,2026-09-11 19:37:30,2026-09-11 19:36:00,2026-09-11 19:45:00,6.0,completed,BUS006,30,Clear,Low,None
+T110050,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 20:10:00,2026-09-11 20:15:30,2026-09-11 20:13:00,2026-09-11 20:21:00,3.0,completed,BUS015,50,Clear,Low,None
+T110051,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 20:50:00,2026-09-11 20:58:00,2026-09-11 20:59:00,2026-09-11 21:06:00,9.0,completed,BUS009,30,Clear,High,None
+T110052,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 19:00:00,2026-09-11 19:11:00,2026-09-11 19:11:00,2026-09-11 19:21:00,11.0,completed,BUS028,30,Clear,Medium,None
+T110053,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 16:00:00,2026-09-11 16:07:00,2026-09-11 16:20:00,2026-09-11 16:25:00,20.0,completed,BUS012,22,Clear,Severe,Local Event
+T110054,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 10:50:00,2026-09-11 10:59:00,2026-09-11 11:09:00,2026-09-11 11:14:00,19.0,completed,BUS025,47,Heavy Rain,Low,None
+T110055,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 18:50:00,2026-09-11 18:56:30,2026-09-11 19:00:00,2026-09-11 19:07:00,10.0,completed,BUS012,50,Cloudy,High,None
+T110056,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 16:40:00,2026-09-11 16:50:00,,,,cancelled,BUS002,28,Clear,Low,None
+T110057,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 11:10:00,2026-09-11 11:18:30,2026-09-11 11:25:00,2026-09-11 11:32:00,15.0,completed,BUS030,43,Clear,Low,None
+T110058,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 19:20:00,2026-09-11 19:32:00,2026-09-11 19:46:00,2026-09-11 19:57:00,26.0,completed,BUS020,26,Heavy Rain,Low,Road Work
+T110059,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 10:20:00,2026-09-11 10:27:30,2026-09-11 10:42:00,2026-09-11 10:52:00,22.0,completed,BUS005,26,Rain,Severe,None
+T110060,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 13:20:00,2026-09-11 13:25:30,2026-09-11 13:31:00,2026-09-11 13:37:00,11.0,completed,BUS027,26,Rain,Medium,Local Event
+T110061,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 17:50:00,2026-09-11 17:58:00,2026-09-11 18:04:00,2026-09-11 18:16:00,14.0,completed,BUS020,37,Clear,Severe,None
+T110062,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 10:10:00,2026-09-11 10:21:00,2026-09-11 10:24:00,2026-09-11 10:34:00,14.0,completed,BUS001,49,Clear,Medium,None
+T110063,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 06:40:00,2026-09-11 06:47:00,2026-09-11 07:01:00,2026-09-11 07:06:00,21.0,completed,BUS003,35,Fog,High,None
+T110064,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 07:50:00,2026-09-11 07:59:00,2026-09-11 07:58:00,2026-09-11 08:08:00,8.0,completed,BUS001,43,Clear,Medium,None
+T110065,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 19:50:00,2026-09-11 19:56:30,2026-09-11 20:00:00,2026-09-11 20:06:00,10.0,completed,BUS017,41,Cloudy,Medium,None
+T110066,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 13:30:00,2026-09-11 13:40:00,2026-09-11 13:32:00,2026-09-11 13:40:00,2.0,completed,BUS016,40,Clear,Low,None
+T110067,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 09:50:00,2026-09-11 09:58:30,2026-09-11 10:07:00,2026-09-11 10:16:00,17.0,completed,BUS028,41,Rain,Medium,None
+T110068,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 17:50:00,2026-09-11 18:02:00,2026-09-11 18:18:00,2026-09-11 18:33:00,28.0,completed,BUS020,15,Rain,High,None
+T110069,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 19:00:00,2026-09-11 19:07:30,2026-09-11 19:16:00,2026-09-11 19:25:00,16.0,completed,BUS014,26,Rain,Medium,None
+T110070,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 18:50:00,2026-09-11 18:55:30,2026-09-11 18:54:00,2026-09-11 18:59:00,4.0,completed,BUS017,37,Clear,Low,Local Event
+T110071,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 16:20:00,2026-09-11 16:28:00,,,,cancelled,BUS024,50,Clear,High,None
+T110072,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 08:30:00,2026-09-11 08:41:00,2026-09-11 08:45:00,2026-09-11 08:52:00,15.0,completed,BUS022,47,Cloudy,High,None
+T110073,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 08:50:00,2026-09-11 08:57:00,2026-09-11 09:00:00,2026-09-11 09:08:00,10.0,completed,BUS007,26,Fog,Medium,None
+T110074,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 09:50:00,2026-09-11 09:59:00,2026-09-11 09:56:00,2026-09-11 10:03:00,6.0,completed,BUS004,41,Clear,Low,None
+T110075,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 07:10:00,2026-09-11 07:16:30,2026-09-11 07:10:00,2026-09-11 07:18:00,0.0,completed,BUS008,21,Clear,Low,None
+T110076,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 09:30:00,2026-09-11 09:40:00,2026-09-11 09:42:00,2026-09-11 09:53:00,12.0,completed,BUS019,30,Cloudy,High,None
+T110077,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 14:10:00,2026-09-11 14:18:30,2026-09-11 14:25:00,2026-09-11 14:30:00,15.0,completed,BUS012,26,Fog,Medium,None
+T110078,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 10:20:00,2026-09-11 10:32:00,2026-09-11 10:35:00,2026-09-11 10:48:00,15.0,completed,BUS024,43,Rain,Medium,None
+T110079,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 07:30:00,2026-09-11 07:37:30,2026-09-11 07:44:00,2026-09-11 07:52:00,14.0,completed,BUS003,48,Clear,Medium,None
+T110080,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 08:40:00,2026-09-11 08:45:30,2026-09-11 08:53:00,2026-09-11 08:58:00,13.0,completed,BUS014,44,Rain,Medium,None
+T110081,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 20:10:00,2026-09-11 20:18:00,2026-09-11 20:10:00,2026-09-11 20:17:00,0.0,completed,BUS028,22,Clear,Medium,None
+T110082,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 18:00:00,2026-09-11 18:11:00,2026-09-11 18:10:00,2026-09-11 18:19:00,10.0,completed,BUS012,20,Cloudy,Medium,None
+T110083,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 13:50:00,2026-09-11 13:57:00,2026-09-11 14:09:00,2026-09-11 14:17:00,19.0,completed,BUS006,28,Fog,Severe,None
+T110084,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 11:20:00,2026-09-11 11:29:00,2026-09-11 11:36:00,2026-09-11 11:47:00,16.0,completed,BUS010,41,Fog,Low,None
+T110085,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 17:20:00,2026-09-11 17:26:30,2026-09-11 17:29:00,2026-09-11 17:39:00,9.0,completed,BUS022,31,Clear,Medium,None
+T110086,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 16:10:00,2026-09-11 16:20:00,2026-09-11 16:13:00,2026-09-11 16:20:00,3.0,completed,BUS022,40,Clear,Low,None
+T110087,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 08:20:00,2026-09-11 08:28:30,2026-09-11 08:41:00,2026-09-11 08:48:00,21.0,completed,BUS020,39,Heavy Rain,Medium,None
+T110088,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 19:20:00,2026-09-11 19:32:00,2026-09-11 19:33:00,2026-09-11 19:43:00,13.0,completed,BUS004,10,Rain,Low,None
+T110089,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 20:00:00,2026-09-11 20:07:30,2026-09-11 20:03:00,2026-09-11 20:10:00,3.0,completed,BUS015,28,Clear,Low,None
+T110090,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 17:50:00,2026-09-11 17:55:30,2026-09-11 18:03:00,2026-09-11 18:12:00,13.0,completed,BUS018,39,Rain,Medium,None
+T110091,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 07:00:00,2026-09-11 07:08:00,2026-09-11 07:11:00,2026-09-11 07:20:00,11.0,completed,BUS013,29,Fog,High,None
+T110092,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 14:40:00,2026-09-11 14:51:00,2026-09-11 14:57:00,2026-09-11 15:06:00,17.0,completed,BUS023,27,Rain,Low,None
+T110093,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 07:50:00,2026-09-11 07:57:00,2026-09-11 07:53:00,2026-09-11 08:01:00,3.0,completed,BUS024,42,Clear,Low,None
+T110094,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 19:40:00,2026-09-11 19:49:00,2026-09-11 19:40:00,2026-09-11 19:49:00,0.0,completed,BUS020,38,Clear,Low,None
+T110095,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 09:10:00,2026-09-11 09:16:30,2026-09-11 09:12:00,2026-09-11 09:21:00,2.0,completed,BUS020,22,Clear,Low,None
+T110096,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 14:40:00,2026-09-11 14:50:00,2026-09-11 15:02:00,2026-09-11 15:14:00,22.0,completed,BUS008,17,Rain,High,Road Work
+T110097,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 08:50:00,2026-09-11 08:58:30,,,,cancelled,BUS026,36,Cloudy,Medium,None
+T110098,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 09:50:00,2026-09-11 10:02:00,2026-09-11 10:21:00,2026-09-11 10:35:00,31.0,completed,BUS015,42,Fog,High,Local Event
+T110099,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 10:00:00,2026-09-11 10:07:30,2026-09-11 10:16:00,2026-09-11 10:25:00,16.0,completed,BUS010,16,Clear,Severe,None
+T110100,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 18:10:00,2026-09-11 18:15:30,2026-09-11 18:15:00,2026-09-11 18:23:00,5.0,completed,BUS012,41,Clear,Medium,None
+T110101,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 15:50:00,2026-09-11 15:58:00,2026-09-11 15:52:00,2026-09-11 16:00:00,2.0,completed,BUS002,30,Clear,Medium,None
+T110102,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 20:30:00,2026-09-11 20:41:00,2026-09-11 20:36:00,2026-09-11 20:45:00,6.0,completed,BUS019,31,Clear,Low,None
+T110103,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 17:30:00,2026-09-11 17:37:00,2026-09-11 17:41:00,2026-09-11 17:46:00,11.0,completed,BUS026,50,Cloudy,High,None
+T110104,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 12:10:00,2026-09-11 12:19:00,2026-09-11 12:18:00,2026-09-11 12:24:00,8.0,completed,BUS028,33,Clear,Medium,None
+T110105,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 18:30:00,2026-09-11 18:36:30,2026-09-11 18:43:00,2026-09-11 18:49:00,13.0,completed,BUS021,19,Cloudy,High,None
+T110106,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 09:20:00,2026-09-11 09:30:00,2026-09-11 09:37:00,2026-09-11 09:48:00,17.0,completed,BUS007,11,Clear,Medium,None
+T110107,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 06:30:00,2026-09-11 06:38:30,2026-09-11 06:46:00,2026-09-11 06:59:00,16.0,completed,BUS025,32,Clear,High,None
+T110108,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 20:10:00,2026-09-11 20:22:00,2026-09-11 20:33:00,2026-09-11 20:45:00,23.0,completed,BUS011,45,Heavy Rain,Low,None
+T110109,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 17:10:00,2026-09-11 17:17:30,2026-09-11 17:21:00,2026-09-11 17:30:00,11.0,completed,BUS003,50,Cloudy,High,None
+T110110,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 06:30:00,2026-09-11 06:35:30,2026-09-11 06:36:00,2026-09-11 06:41:00,6.0,completed,BUS016,48,Cloudy,Medium,None
+T110111,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 12:20:00,2026-09-11 12:28:00,2026-09-11 12:32:00,2026-09-11 12:39:00,12.0,completed,BUS002,50,Rain,High,None
+T110112,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 18:00:00,2026-09-11 18:11:00,2026-09-11 18:12:00,2026-09-11 18:26:00,12.0,completed,BUS027,40,Clear,Medium,None
+T110113,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 18:00:00,2026-09-11 18:07:00,2026-09-11 18:05:00,2026-09-11 18:13:00,5.0,completed,BUS012,34,Cloudy,Medium,None
+T110114,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 10:50:00,2026-09-11 10:59:00,2026-09-11 10:54:00,2026-09-11 11:08:00,4.0,completed,BUS029,30,Clear,Medium,None
+T110115,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 18:50:00,2026-09-11 18:56:30,2026-09-11 18:59:00,2026-09-11 19:07:00,9.0,completed,BUS015,36,Clear,Medium,None
+T110116,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 18:00:00,2026-09-11 18:10:00,2026-09-11 18:12:00,2026-09-11 18:24:00,12.0,completed,BUS002,44,Rain,High,None
+T110117,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 15:10:00,2026-09-11 15:18:30,2026-09-11 15:26:00,2026-09-11 15:36:00,16.0,completed,BUS007,16,Rain,High,None
+T110118,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 19:50:00,2026-09-11 20:02:00,2026-09-11 20:13:00,2026-09-11 20:26:00,23.0,completed,BUS018,32,Clear,High,None
+T110119,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 17:30:00,2026-09-11 17:37:30,2026-09-11 17:40:00,2026-09-11 17:47:00,10.0,completed,BUS024,13,Clear,Medium,None
+T110120,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 09:10:00,2026-09-11 09:15:30,2026-09-11 09:23:00,2026-09-11 09:28:00,13.0,completed,BUS001,41,Heavy Rain,Medium,None
+T110121,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 07:00:00,2026-09-11 07:08:00,2026-09-11 07:05:00,2026-09-11 07:16:00,5.0,completed,BUS003,39,Clear,Medium,None
+T110122,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 08:30:00,2026-09-11 08:41:00,2026-09-11 08:47:00,2026-09-11 08:58:00,17.0,completed,BUS026,27,Heavy Rain,Low,None
+T110123,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 15:50:00,2026-09-11 15:57:00,2026-09-11 16:05:00,2026-09-11 16:10:00,15.0,completed,BUS027,43,Clear,High,None
+T110124,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 18:40:00,2026-09-11 18:49:00,2026-09-11 18:59:00,2026-09-11 19:05:00,19.0,completed,BUS010,40,Heavy Rain,Medium,None
+T110125,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 10:30:00,2026-09-11 10:36:30,2026-09-11 10:39:00,2026-09-11 10:47:00,9.0,completed,BUS027,44,Cloudy,Low,None
+T110126,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 13:40:00,2026-09-11 13:50:00,2026-09-11 13:48:00,2026-09-11 13:58:00,8.0,completed,BUS005,50,Rain,Low,None
+T110127,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 19:10:00,2026-09-11 19:18:30,2026-09-11 19:37:00,2026-09-11 19:44:00,27.0,completed,BUS027,21,Heavy Rain,Low,Festival
+T110128,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 19:10:00,2026-09-11 19:22:00,2026-09-11 19:25:00,2026-09-11 19:40:00,15.0,completed,BUS018,13,Cloudy,Low,None
+T110129,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 19:30:00,2026-09-11 19:37:30,2026-09-11 19:35:00,2026-09-11 19:40:00,5.0,completed,BUS023,36,Clear,Low,None
+T110130,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 08:00:00,2026-09-11 08:05:30,2026-09-11 08:09:00,2026-09-11 08:16:00,9.0,completed,BUS023,28,Clear,High,None
+T110131,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 17:10:00,2026-09-11 17:18:00,2026-09-11 17:20:00,2026-09-11 17:27:00,10.0,completed,BUS007,26,Cloudy,Medium,None
+T110132,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 16:50:00,2026-09-11 17:01:00,,,,cancelled,BUS015,21,Clear,Medium,None
+T110133,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 18:20:00,2026-09-11 18:27:00,2026-09-11 18:20:00,2026-09-11 18:25:00,0.0,completed,BUS016,42,Clear,Low,None
+T110134,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 16:00:00,2026-09-11 16:09:00,2026-09-11 16:12:00,2026-09-11 16:20:00,12.0,completed,BUS003,17,Clear,Medium,Local Event
+T110135,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 16:20:00,2026-09-11 16:26:30,2026-09-11 16:39:00,2026-09-11 16:44:00,19.0,completed,BUS027,21,Rain,High,None
+T110136,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 19:10:00,2026-09-11 19:20:00,2026-09-11 19:14:00,2026-09-11 19:21:00,4.0,completed,BUS024,32,Clear,Low,None
+T110137,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 10:00:00,2026-09-11 10:08:30,2026-09-11 10:17:00,2026-09-11 10:24:00,17.0,completed,BUS029,37,Clear,Low,Local Event
+T110138,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 10:00:00,2026-09-11 10:12:00,2026-09-11 10:16:00,2026-09-11 10:25:00,16.0,completed,BUS009,31,Clear,Medium,None
+T110139,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 17:20:00,2026-09-11 17:27:30,2026-09-11 17:33:00,2026-09-11 17:41:00,13.0,completed,BUS023,18,Clear,High,None
+T110140,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 20:10:00,2026-09-11 20:15:30,2026-09-11 20:22:00,2026-09-11 20:28:00,12.0,completed,BUS012,19,Fog,Medium,None
+T110141,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 10:40:00,2026-09-11 10:48:00,2026-09-11 10:44:00,2026-09-11 10:51:00,4.0,completed,BUS025,46,Clear,Medium,None
+T110142,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 19:50:00,2026-09-11 20:01:00,2026-09-11 20:05:00,2026-09-11 20:15:00,15.0,completed,BUS030,27,Clear,Medium,None
+T110143,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 19:00:00,2026-09-11 19:07:00,2026-09-11 19:09:00,2026-09-11 19:15:00,9.0,completed,BUS013,20,Clear,High,None
+T110144,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 13:20:00,2026-09-11 13:29:00,2026-09-11 13:40:00,2026-09-11 13:47:00,20.0,completed,BUS004,39,Rain,High,None
+T110145,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 08:40:00,2026-09-11 08:46:30,2026-09-11 09:04:00,2026-09-11 09:09:00,24.0,completed,BUS001,50,Fog,Severe,None
+T110146,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 07:10:00,2026-09-11 07:20:00,2026-09-11 07:19:00,2026-09-11 07:28:00,9.0,completed,BUS021,50,Clear,Medium,None
+T110147,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 20:40:00,2026-09-11 20:48:30,2026-09-11 20:58:00,2026-09-11 21:09:00,18.0,completed,BUS025,40,Rain,Low,None
+T110148,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 19:10:00,2026-09-11 19:22:00,2026-09-11 19:19:00,2026-09-11 19:30:00,9.0,completed,BUS013,43,Clear,Low,None
+T110149,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 20:20:00,2026-09-11 20:27:30,2026-09-11 20:23:00,2026-09-11 20:32:00,3.0,completed,BUS004,43,Cloudy,Low,None
+T110150,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 06:00:00,2026-09-11 06:05:30,2026-09-11 06:08:00,2026-09-11 06:13:00,8.0,completed,BUS021,15,Clear,Medium,Local Event
+T110151,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 18:40:00,2026-09-11 18:48:00,2026-09-11 18:44:00,2026-09-11 18:51:00,4.0,completed,BUS011,29,Cloudy,Medium,None
+T110152,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 14:50:00,2026-09-11 15:01:00,2026-09-11 15:11:00,2026-09-11 15:24:00,21.0,completed,BUS029,50,Rain,Low,None
+T110153,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 13:30:00,2026-09-11 13:37:00,2026-09-11 13:34:00,2026-09-11 13:43:00,4.0,completed,BUS015,18,Clear,Medium,None
+T110154,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 08:40:00,2026-09-11 08:49:00,2026-09-11 08:52:00,2026-09-11 09:01:00,12.0,completed,BUS025,50,Clear,Medium,Local Event
+T110155,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 18:10:00,2026-09-11 18:16:30,2026-09-11 18:16:00,2026-09-11 18:24:00,6.0,completed,BUS011,38,Clear,Medium,None
+T110156,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 12:50:00,2026-09-11 13:00:00,2026-09-11 12:57:00,2026-09-11 13:04:00,7.0,completed,BUS025,31,Cloudy,Low,None
+T110157,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 08:30:00,2026-09-11 08:38:30,2026-09-11 08:39:00,2026-09-11 08:50:00,9.0,completed,BUS007,36,Cloudy,Low,None
+T110158,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 16:20:00,2026-09-11 16:32:00,2026-09-11 16:41:00,2026-09-11 16:54:00,21.0,completed,BUS012,25,Fog,Medium,None
+T110159,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 20:00:00,2026-09-11 20:07:30,2026-09-11 20:12:00,2026-09-11 20:20:00,12.0,completed,BUS020,30,Clear,High,None
+T110160,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 18:30:00,2026-09-11 18:35:30,2026-09-11 18:42:00,2026-09-11 18:47:00,12.0,completed,BUS011,28,Cloudy,High,None
+T110161,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 17:30:00,2026-09-11 17:38:00,2026-09-11 17:45:00,2026-09-11 17:51:00,15.0,completed,BUS015,30,Cloudy,High,None
+T110162,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 15:00:00,2026-09-11 15:11:00,2026-09-11 15:23:00,2026-09-11 15:35:00,23.0,completed,BUS019,50,Rain,High,None
+T110163,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 19:10:00,2026-09-11 19:17:00,2026-09-11 19:29:00,2026-09-11 19:35:00,19.0,completed,BUS029,50,Clear,High,Local Event
+T110164,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 18:30:00,2026-09-11 18:39:00,2026-09-11 18:40:00,2026-09-11 18:48:00,10.0,completed,BUS018,48,Clear,Medium,None
+T110165,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 06:00:00,2026-09-11 06:06:30,2026-09-11 06:06:00,2026-09-11 06:11:00,6.0,completed,BUS024,48,Cloudy,Medium,None
+T110166,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 18:30:00,2026-09-11 18:40:00,2026-09-11 18:57:00,2026-09-11 19:06:00,27.0,completed,BUS029,40,Clear,Severe,Road Work
+T110167,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 20:20:00,2026-09-11 20:28:30,2026-09-11 20:28:00,2026-09-11 20:35:00,8.0,completed,BUS018,24,Clear,Medium,None
+T110168,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 07:20:00,2026-09-11 07:32:00,2026-09-11 07:40:00,2026-09-11 07:52:00,20.0,completed,BUS017,32,Clear,Medium,Local Event
+T110169,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 19:40:00,2026-09-11 19:47:30,2026-09-11 19:52:00,2026-09-11 19:58:00,12.0,completed,BUS011,22,Clear,Low,Road Work
+T110170,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 20:10:00,2026-09-11 20:15:30,2026-09-11 20:32:00,2026-09-11 20:41:00,22.0,completed,BUS019,19,Cloudy,Severe,Road Work
+T110171,2026-09-11,R101,City Center - University,Central Bus Stand,MMMUT Campus,2026-09-11 09:30:00,2026-09-11 09:38:00,2026-09-11 09:44:00,2026-09-11 09:50:00,14.0,completed,BUS016,19,Heavy Rain,Medium,None
+T110172,2026-09-11,R102,Railway Station - Airport,Railway Station,Airport Terminal,2026-09-11 19:30:00,2026-09-11 19:41:00,2026-09-11 19:42:00,2026-09-11 19:56:00,12.0,completed,BUS008,7,Cloudy,Low,None
+T110173,2026-09-11,R103,University - Civil Lines,MMMUT Campus,Civil Lines,2026-09-11 19:50:00,2026-09-11 19:57:00,,,,cancelled,BUS015,29,Clear,High,None
+T110174,2026-09-11,R104,Medical College - City Center,Medical College,Central Bus Stand,2026-09-11 09:00:00,2026-09-11 09:09:00,2026-09-11 09:18:00,2026-09-11 09:29:00,18.0,completed,BUS029,23,Clear,High,None
+T110175,2026-09-11,R105,Golghar - Railway Station,Golghar,Railway Station,2026-09-11 08:20:00,2026-09-11 08:26:30,2026-09-11 08:29:00,2026-09-11 08:34:00,9.0,completed,BUS019,22,Clear,Medium,None
+T110176,2026-09-11,R106,University - Railway Station,MMMUT Campus,Railway Station,2026-09-11 17:50:00,2026-09-11 18:00:00,2026-09-11 18:02:00,2026-09-11 18:14:00,12.0,completed,BUS007,25,Rain,Medium,None
+T110177,2026-09-11,R107,Taramandal - City Center,Taramandal,Central Bus Stand,2026-09-11 09:50:00,2026-09-11 09:58:30,2026-09-11 10:02:00,2026-09-11 10:13:00,12.0,completed,BUS026,3,Rain,Medium,None
+T110178,2026-09-11,R108,Airport - University,Airport Terminal,MMMUT Campus,2026-09-11 18:00:00,2026-09-11 18:12:00,2026-09-11 18:18:00,2026-09-11 18:36:00,18.0,completed,BUS022,48,Clear,Medium,None
+T110179,2026-09-11,R109,Medical College - University,Medical College,MMMUT Campus,2026-09-11 14:10:00,2026-09-11 14:17:30,2026-09-11 14:27:00,2026-09-11 14:32:00,17.0,completed,BUS001,33,Clear,High,None
+T110180,2026-09-11,R110,Gorakhnath - City Center,Gorakhnath,Central Bus Stand,2026-09-11 13:20:00,2026-09-11 13:25:30,2026-09-11 13:37:00,2026-09-11 13:44:00,17.0,completed,BUS009,12,Fog,High,None
