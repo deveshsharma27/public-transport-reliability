@@ -18,3 +18,9 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+# Generated pipeline output
+/data/processed/
+/data/quarantine/invalid_*.csv
+
+# Temporary test files
+/data/test_input/_*.csv
