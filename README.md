@@ -6,13 +6,11 @@
 [![Pandas](https://img.shields.io/badge/Pandas-3.0%2B-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Google Gemini](https://img.shields.io/badge/AI-Gemini%203.8%20Flash-4E75F6?logo=google&logoColor=white)](https://ai.google.dev/)
 [![Pytest](https://img.shields.io/badge/Testing-Pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # 🚍 Public Transport Reliability System
 
 A Python + PostgreSQL data-engineering pipeline for processing daily synthetic public-transport trip data, validating records, loading new trips incrementally, calculating route reliability in SQL, and generating a grounded AI explanation of the worst-performing route.
 
-> **Assessment:** DAI-014 — Public Transport Reliability  
 > **Data source:** Synthetic CSV batches created for this project.
 
 ## Contents
